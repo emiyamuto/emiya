@@ -6,6 +6,6 @@ b.安装iTunes后先登陆并进入appstore界面搜索tiktok，再打开抓包�
   
 2.使用第三方软件安装ipa。（例如爱思助手）  
   
-3.安装ss并按照教程在ss里修改https中介。https://www.youtube.com/watch?v=jxe_5H_M4Ho  
-
+3.安装ss并按照教程在ss里修改https中介。https://youtu.be/5tqzLUTLW-A?t=342
+  
 4.打开app  
